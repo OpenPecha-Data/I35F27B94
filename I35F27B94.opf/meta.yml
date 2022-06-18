@@ -1,0 +1,38 @@
+id: I35F27B94
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-18T20:14:58.467592'
+last_modified: '2022-06-18T20:14:58.467607'
+parser: null
+source_metadata:
+  title: Exegesis of the meditative practice of the Prajñāpāramitā teachings (block
+    print), colophon excerpt
+  author: རོང་སྟོན་ཤེས་བྱ་ཀུན་རིག
+  description: 'Digital version 1.0 {Tibetan}, diplomatic edition of witness A; master
+    xml (completed: 2020-05-20); revision in process, thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Excerpt/Colophon'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:Mathias Fermer (mf)
+  - Editorial process:-
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:Mathias Fermer (mf)
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/2022
+  bases:
+    4d31:
+      title: Exegesis of the meditative practice of the Prajñāpāramitā teachings (block
+        print), colophon excerpt
+      order: 1
+      base_file: 4d31.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
